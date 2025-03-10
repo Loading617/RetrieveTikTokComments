@@ -1,2 +1,2 @@
 # RetrieveTikTokComments
-Old Video Comments TikTok Video Extension
+Bring Back Comments on Old TikTok Video
